@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -121,280 +121,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: palette-1-tiles-ground-and-stone_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 14250c31f3febad62939a2a2a1797465
-      internalID: -1024373022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: palette-1-tiles-ground-and-stone_1
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9c59407410854e57ca7e82b049e5db16
-      internalID: -1392997252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: palette-1-tiles-ground-and-stone_2
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b5247208a1570553a9ce59126d7c929
-      internalID: -2059002954
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: palette-1-tiles-ground-and-stone_3
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1ba6613e86338e5cabfb71bc87fd70c
-      internalID: -1728977807
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: palette-1-tiles-ground-and-stone_4
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be2a744cbabc7338ab6effdee5da112c
-      internalID: -820505688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: palette-1-tiles-ground-and-stone_5
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d0f18bb3241efe6039f153416db310b5
-      internalID: -643086438
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: palette-1-tiles-ground-and-stone_6
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 127
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc70ab0a8670629d89455556f6c08d73
-      internalID: -1888465565
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: palette-1-tiles-ground-and-stone_8
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 127
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: efe6fe6b5cc638ddc831b6a84e8c74c4
-      internalID: -120551381
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: palette-1-tiles-ground-and-stone_7
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 127
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f39ec2745fbb8dea2abc6e165080aa69
-      internalID: -116719047
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: palette-1-tiles-ground-and-stone_9
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 127
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: adac014f99f2f98aaa5d96aca48d75ca
-      internalID: -1950271445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: palette-1-tiles-ground-and-stone_10
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 001936ed2be81df87acd39b0790c4191
-      internalID: 460617694
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: palette-1-tiles-ground-and-stone_11
-      rect:
-        serializedVersion: 2
-        x: 181
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 429bd3bdfe81a98dfb59d7d4f74f2d2f
-      internalID: -1164931137
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: palette-1-tiles-ground-and-stone_12
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 110
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8978014c592a54ccf82003d6a9274280
-      internalID: -1724614380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -405,21 +132,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      palette-1-tiles-ground-and-stone_0: -1024373022
-      palette-1-tiles-ground-and-stone_1: -1392997252
-      palette-1-tiles-ground-and-stone_10: -1950271445
-      palette-1-tiles-ground-and-stone_11: 460617694
-      palette-1-tiles-ground-and-stone_12: -1164931137
-      palette-1-tiles-ground-and-stone_13: -1724614380
-      palette-1-tiles-ground-and-stone_2: -2059002954
-      palette-1-tiles-ground-and-stone_3: -1728977807
-      palette-1-tiles-ground-and-stone_4: -820505688
-      palette-1-tiles-ground-and-stone_5: -643086438
-      palette-1-tiles-ground-and-stone_6: -1888465565
-      palette-1-tiles-ground-and-stone_7: -116719047
-      palette-1-tiles-ground-and-stone_8: -120551381
-      palette-1-tiles-ground-and-stone_9: -519522855
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
