@@ -41,3 +41,6 @@ For any inquiries or feedback, please reach out to us using the following email 
 
 [@LakshayManglani](https://github.com/LakshayManglani):
 **[lakshaymanglani2212@gmail.com](mailto:lakshaymanglani2212@gmail.com)**
+
+[@KaranSoni57](https://github.com/KaranSoni57):
+**[karansoni337d@gmail.com](mailto:karansoni337d@gmail.com)**
