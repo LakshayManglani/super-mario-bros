@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./Assets/Sprites/Icons/Logo.png"
+    <img src="./Assets/Icons/Logo.png"
     width="200">
     <h1 align="center">Super Mario Bros Clone</h1>
 </div>
