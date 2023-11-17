@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./Assets/Sprites/Icons/logo.png"
+    <img src="./Assets/Icons/Logo.png"
     width="200">
     <h1 align="center">Super Mario Bros Clone</h1>
 </div>
@@ -41,3 +41,6 @@ For any inquiries or feedback, please reach out to us using the following email 
 
 [@LakshayManglani](https://github.com/LakshayManglani):
 **[lakshaymanglani2212@gmail.com](mailto:lakshaymanglani2212@gmail.com)**
+
+[@KaranSoni57](https://github.com/KaranSoni57):
+**[karansoni337d@gmail.com](mailto:karansoni337d@gmail.com)**
