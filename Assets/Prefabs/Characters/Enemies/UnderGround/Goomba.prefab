@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5741996912276128001}
   - component: {fileID: 8253216652338353996}
   m_Layer: 0
-  m_Name: UnderGroundEnemy
+  m_Name: Goomba
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

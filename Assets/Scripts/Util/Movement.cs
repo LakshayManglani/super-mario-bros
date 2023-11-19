@@ -1,15 +1,20 @@
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
-    bool isLeft = false;
     public float speed = 2.5f;
 
-    void Update()
+    private bool _isLeft = false;
+
+    private void Update()
+    {
+        HorizontalMovement();
+    }
+
+    private void HorizontalMovement()
     {
         Vector3 nextPosition;
-        if (isLeft)
+        if (_isLeft)
         {
             nextPosition = Vector3.left;
         }
@@ -21,8 +26,8 @@ public class Movement : MonoBehaviour
         transform.position += nextPosition * Time.deltaTime * speed;
     }
 
-    void OnCollisionEnter2D(Collision2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        isLeft = !isLeft;
+        _isLeft = !_isLeft;
     }
 }

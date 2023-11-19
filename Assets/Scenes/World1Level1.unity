@@ -2059,7 +2059,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6342294440903247715, guid: 7a35d8bba3c65175dac5c1aff39e6be1, type: 3}
       propertyPath: m_Name
-      value: UnderGroundEnemy (2)
+      value: Goomba (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2126,7 +2126,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6342294440903247715, guid: 7a35d8bba3c65175dac5c1aff39e6be1, type: 3}
       propertyPath: m_Name
-      value: UnderGroundEnemy (3)
+      value: Goomba
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2162,10 +2162,10 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 893774270}
   - {fileID: 1408197931}
   - {fileID: 577819646}
   - {fileID: 1079010142}
-  - {fileID: 893774270}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1408197931 stripped
@@ -2223,7 +2223,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6342294440903247715, guid: 7a35d8bba3c65175dac5c1aff39e6be1, type: 3}
       propertyPath: m_Name
-      value: UnderGroundEnemy (1)
+      value: Goomba (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4410,7 +4410,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6342294440903247715, guid: 7a35d8bba3c65175dac5c1aff39e6be1, type: 3}
       propertyPath: m_Name
-      value: UnderGroundEnemy
+      value: Goomba (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
