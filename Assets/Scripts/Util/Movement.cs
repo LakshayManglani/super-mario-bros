@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
-    public float speed = 2.5f;
+    public float Speed = 2.5f;
 
     private bool _isLeft = false;
 
@@ -23,7 +23,7 @@ public class Movement : MonoBehaviour
             nextPosition = Vector3.right;
         }
 
-        transform.position += nextPosition * Time.deltaTime * speed;
+        transform.position += nextPosition * Time.deltaTime * Speed;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
